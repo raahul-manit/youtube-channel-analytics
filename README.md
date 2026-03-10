@@ -1,4 +1,3 @@
-# youtube-channel-analytics
 
 # YouTube Channel Data Analysis Dashboard
 
